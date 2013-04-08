@@ -19,6 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     //test for github;
+    //add this one to old one because the first one is not this one .after this one it going to  be the one .
 }
 
 - (void)didReceiveMemoryWarning
